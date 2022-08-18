@@ -1,6 +1,6 @@
 ## Hi there, I'm Rio Bayu Sentosa👋
 
-I am Web Developer. Find out more about me & feel free to connect with me here:
+I am BackEnd Developer. Find out more about me & feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-riobayusentosa-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/riobayusentosa/)](https://www.instagram.com/riobayusentosa/)
 [![Gmail Badge](https://img.shields.io/badge/-riobayusentosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riobayusentosa@gmail.com)](mailto:riobayusentosa@gmail.com)
